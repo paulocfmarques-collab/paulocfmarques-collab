@@ -33,23 +33,23 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
 
 ### Linguagens
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge=c&logoColor=white
-![C++](https://img.shields.io/badge/C++-00599=for-the-badge&logo=cplusplus&logoColor=white
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-theo=python&logoColor=white
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-theo=python&logoColor=white)
 
 ### Sistemas e Plataformas
 
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badgepi&logoColor=white
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badgepi&logoColor=white)
 
 ### Banco de Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badgeql&logoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badgeql&logoColor=white)
 
 ### Monitoramento e Observabilidade
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheuste
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=oColor=white
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheuste)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=oColor=white)
 
 ---
 
@@ -92,9 +92,9 @@ Principais funcionalidades:
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulocfmarques-collab&showe=github_dark
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulocfmarques-collab&showe=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocfmarques-collab&layout=compact&theme
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocfmarques-collab&layout=compact&theme)
 
 ## 🌎 Onde me Encontrar
 
