@@ -33,25 +33,31 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
 
 ### Linguagens
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-theo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&white
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
 ### Sistemas e Plataformas
 
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badgepi&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white">
+</p>
 
 ### Banco de Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badgeql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
 ### Monitoramento e Observabilidade
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheuste)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=oColor=white)
-
----
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+</p>
 
 ## 🔭 Projetos em Destaque
 
@@ -92,9 +98,10 @@ Principais funcionalidades:
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulocfmarques-collab&showe=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocfmarques-collab&layout=compact&theme)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocfmarques-collab&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocfmarques-collab&layout=compact&theme=github_dark"/>
+</p>
 
 ## 🌎 Onde me Encontrar
 
