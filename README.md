@@ -4,7 +4,7 @@
 
 Sou Engenheiro de Software Embarcado, Team Leader na AEL Sistemas e Professor Universitário.
 
-Tenho mais de 13 anos de experiência no desenvolvimento de software para sistemas embarcados de alta confiabilidade, com atuação em projetos aeronáuticos civis e militares, incluindo modernização de aeronaves, sistemas aviônicos, ferramentas de teste e aplicações críticas seguindo o padrão DO-178. Paralelamente, atuo há mais de 15 anos na educação superior, compartilhando conhecimento e formando novos profissionais da área de tecnologia. 【1-36c3b9】
+Tenho mais de 15 anos de experiência no desenvolvimento de software para sistemas embarcados de alta confiabilidade, com atuação em projetos aeronáuticos civis e militares, incluindo modernização de aeronaves, sistemas aviônicos, ferramentas de teste e aplicações críticas seguindo o padrão DO-178. Paralelamente, atuo há mais de 18 anos na educação superior, compartilhando conhecimento e formando novos profissionais da área de tecnologia. 【1-36c3b9】
 
 Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os pilares para construir equipes fortes e soluções que realmente geram valor.
 
