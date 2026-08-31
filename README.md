@@ -69,8 +69,8 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
   <img src="https://img.shields.io/badge/TCP-0078D4?style=for-the-badge&logo=protocolsdgoColor=white">
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/HTTP-5C940D?style=for-the-badge&logo=httpolor=white">
-  <img src="https://img.shields.io/badge/500?style=for-the-badge&logo=socketdotio&logoColor=white">
-  <img src="https://img.shields.io/badge/BLE-style=for-the-badge&logo=bluetooth&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
   <img src="https://img.shields.io/badge/WiFi-00A0DC?style=for-the-badge&logo=oColor=white">
 </p>
 
