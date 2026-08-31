@@ -65,7 +65,7 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
 ### Protocolos
 
 <p>
-  <img src="https://img.shields.io/badge/Protocol-UDP-orange">
+  <img src="https://img.shields.io/badge/UDP-FF6C37?style=for-the-badge&logo=dat&logoColor=white">
   <img src="https://img.shields.io/badge/Protocol-TCP-blue">
   <img src="https://img.shields.io/badge/Protocol-MQTT-purple">
   <img src="https://img.shields.io/badge/Protocol-HTTP-green">
