@@ -46,14 +46,8 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white">
   <img src="https://img.shields.io/badge/Platform-Windows-blue">
-  <img src="https://img.shields.io/badge/.NET-WinForms-purple">
+  <img src="https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=Color=white">
 </p>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=fore&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-brrypi&logoColor=white)
-![Windows](https://img.shields.io/badge/Windowsle=for-the-badge&logo=windows&logoColor=white)
-![.NET](https://img.shields.io/bT-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=Color=white)
 
 ### Banco de Dados
 
