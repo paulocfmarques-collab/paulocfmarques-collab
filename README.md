@@ -45,7 +45,7 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white">
-  <img src="https://img.shields.io/badge/Platform-Windows-blue">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor">
   <img src="https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=Color=white">
 </p>
 
