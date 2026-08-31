@@ -37,6 +37,7 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Language-C%23-green">
 </p>
 
 ### Sistemas e Plataformas
@@ -44,6 +45,8 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue">
+  <img src="https://img.shields.io/badge/.NET-WinForms-purple">
 </p>
 
 ### Banco de Dados
@@ -57,6 +60,18 @@ Acredito que liderança, aprendizado contínuo e paixão por tecnologia são os 
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+</p>
+
+### Protocolos
+
+<p>
+  <img src="https://img.shields.io/badge/Protocol-UDP-orange">
+  <img src="https://img.shields.io/badge/Protocol-TCP-blue">
+  <img src="https://img.shields.io/badge/Protocol-MQTT-purple">
+  <img src="https://img.shields.io/badge/Protocol-HTTP-green">
+  <img src="https://img.shields.io/badge/Protocol-WebSocket-red">
+  <img src="https://img.shields.io/badge/Protocol-BLE-cyan">
+  <img src="https://img.shields.io/badge/Protocol-WiFi-yellow">
 </p>
 
 ## 🔭 Projetos em Destaque
