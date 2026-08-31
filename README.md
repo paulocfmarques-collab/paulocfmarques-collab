@@ -113,7 +113,7 @@ Principais funcionalidades:
 
 ## 📊 Estatísticas GitHub
 
-![Estatísticas do GitHub](https://vercel.app)
+![Contador de Visitas](https://seeyoufarm.com)
 
 ## 🌎 Onde me Encontrar
 
