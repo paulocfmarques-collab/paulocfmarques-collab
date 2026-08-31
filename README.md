@@ -113,7 +113,9 @@ Principais funcionalidades:
 
 ## 📊 Estatísticas GitHub
 
-![Contador de Visitas](https://seeyoufarm.com)
+<p align="center">
+  <img src="https://komarev.com" alt="Contador de Visitas" />
+</p>
 
 ## 🌎 Onde me Encontrar
 
