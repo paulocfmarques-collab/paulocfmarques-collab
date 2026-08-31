@@ -114,9 +114,11 @@ Principais funcionalidades:
 ## 📊 Estatísticas GitHub
 
 <p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocfmarques-collab&show_icons=true&theme=github_dark&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocfmarques-collab&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocfmarques-collab&layout=compact&theme=github_dark"/>
 </p>
+
 
 ## 🌎 Onde me Encontrar
 
