@@ -113,9 +113,7 @@ Principais funcionalidades:
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://komarev.com" alt="Contador de Visitas" />
-</p>
+![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulocfmarquesns=true&theme=tokyonight)
 
 ## 🌎 Onde me Encontrar
 
