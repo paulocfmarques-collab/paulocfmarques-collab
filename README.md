@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am an Embedded Software Engineer, Team Leader at AEL Sistemas, and University Professor with more than 15 years of experience developing high-reliability software for embedded and avionics systems.
+I am an Embedded Software Engineer, Team Leader at AEL Sistemas, and University Professor with more than 15 years of experience developing high-reliability software for embedded and avionics system[...]
 
-My professional experience includes software architecture, embedded C/C++ development, real-time systems, verification and validation, debugging, systems integration, technical leadership, and engineering for civil and military aviation projects. I focus on building deterministic, maintainable, and dependable solutions for systems where safety, performance, and operational continuity are essential.
+My professional experience includes software architecture, embedded C/C++ development, real-time systems, verification and validation, debugging, systems integration, technical leadership, and engi[...]
 
-I am also interested in networked embedded systems, IoT, observability, automation, and engineering tools that improve system visibility and operational efficiency. I enjoy mentoring technology professionals and applying engineering discipline to practical projects.
+I am also interested in networked embedded systems, IoT, observability, automation, and engineering tools that improve system visibility and operational efficiency. I enjoy mentoring technology pro[...]
 
 > Leadership, technical rigor, continuous learning, and engineering excellence are the foundations for building high-performing teams and reliable systems.
 
@@ -74,6 +74,20 @@ I am also interested in networked embedded systems, IoT, observability, automati
 ---
 
 ## 🔭 Featured Projects
+
+### [ESP32-P4 Wi-Fi & UDP Control Gateway](https://github.com/paulocfmarques-collab/esp32_wifi_P4)
+
+Field-configurable ESP32-P4 gateway with Wi-Fi provisioning, UDP command control, OLED diagnostics, persistent credentials, LED control, and runtime telemetry.
+
+- Wi-Fi provisioning access point with persistent credentials
+- UDP command interface on port `4210`
+- HTTP configuration portal at `192.168.4.1`
+- OLED and Serial diagnostics
+- LED control with finite and continuous blinking modes
+- CPU, memory, flash, temperature, uptime, MAC, and network telemetry
+- GPIO2 Wi-Fi reset and recovery workflow
+
+**Technologies:** C++, ESP32-P4, Arduino, Wi-Fi, UDP, HTTP, Preferences, SSD1306 OLED, GPIO
 
 ### [Network Discovery for Prometheus](https://github.com/paulocfmarques-collab/network-discovery-prometheus)
 
