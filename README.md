@@ -4,9 +4,9 @@
 
 I am an Embedded Software Engineer, Team Leader at AEL Sistemas, and University Professor with more than 15 years of experience developing high-reliability software for embedded and avionics systems.
 
-My professional experience includes software architecture, embedded C/C++ development, real-time systems, verification and validation, debugging, systems integration, technical leadership, and engineering excellence.
+My professional experience includes software architecture, embedded C/C++ development, real-time systems, verification and validation, debugging, systems integration, technical leadership, and engineering process improvement.
 
-I am also interested in networked embedded systems, IoT, observability, automation, and engineering tools that improve system visibility and operational efficiency. I enjoy mentoring technology professionals and building teams focused on continuous learning and technical rigor.
+I am also interested in networked embedded systems, IoT, observability, automation, and engineering tools that improve system visibility and operational efficiency. I enjoy mentoring technology professionals and turning complex technical challenges into robust, practical solutions.
 
 > Leadership, technical rigor, continuous learning, and engineering excellence are the foundations for building high-performing teams and reliable systems.
 
@@ -74,6 +74,20 @@ I am also interested in networked embedded systems, IoT, observability, automati
 ---
 
 ## 🔭 Featured Projects
+
+### [ESP32 WiFi + Ethernet + SD Card + OLED Control Platform](https://github.com/paulocfmarques-collab/esp32_wifi_eth_sdcard_P4)
+
+Robust ESP32-P4 embedded control platform combining Wi-Fi, Ethernet fallback, SD card logging, OLED diagnostics, and UDP-based remote control in a single firmware stack.
+
+- Dual networking with Wi-Fi station/AP mode and Ethernet fallback
+- SD card mount and persistent log file storage
+- OLED display for live status and diagnostic messages
+- UDP command processing on port `4210`
+- Captive configuration portal at `http://192.168.4.1`
+- Persistent credentials with reset/recovery workflow
+- Temperature, network, memory, and system telemetry
+
+**Technologies:** C++, ESP32-P4, Arduino, Wi-Fi, Ethernet, SD Card, NTP, UDP, OLED, GPIO
 
 ### [ESP32-P4 Wi-Fi & UDP Control Gateway](https://github.com/paulocfmarques-collab/esp32_wifi_P4)
 
