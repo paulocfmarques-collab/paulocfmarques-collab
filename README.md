@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am an Embedded Software Engineer, Team Leader at AEL Sistemas, and University Professor with more than 15 years of experience developing high-reliability software for embedded and avionics system[...]
+I am an Embedded Software Engineer, Team Leader at AEL Sistemas, and University Professor with more than 15 years of experience developing high-reliability software for embedded and avionics systems.
 
-My professional experience includes software architecture, embedded C/C++ development, real-time systems, verification and validation, debugging, systems integration, technical leadership, and engi[...]
+My professional experience includes software architecture, embedded C/C++ development, real-time systems, verification and validation, debugging, systems integration, technical leadership, and engineering excellence.
 
-I am also interested in networked embedded systems, IoT, observability, automation, and engineering tools that improve system visibility and operational efficiency. I enjoy mentoring technology pro[...]
+I am also interested in networked embedded systems, IoT, observability, automation, and engineering tools that improve system visibility and operational efficiency. I enjoy mentoring technology professionals and building teams focused on continuous learning and technical rigor.
 
 > Leadership, technical rigor, continuous learning, and engineering excellence are the foundations for building high-performing teams and reliable systems.
 
@@ -132,6 +132,8 @@ Network inventory tooling for discovering and enriching local devices using ARP 
 
 ### [ESP32 Wi-Fi Card](https://github.com/paulocfmarques-collab/esp32_wifi_card)
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
 Configurable ESP32 network controller with Wi-Fi provisioning, UDP command processing, diagnostics, status indicators, and microSD logging.
 
 - Wi-Fi station mode with SoftAP provisioning fallback
@@ -141,6 +143,7 @@ Configurable ESP32 network controller with Wi-Fi provisioning, UDP command proce
 - microSD logging over VSPI
 - LED heartbeat, command feedback, and reset recovery
 - Remote file and log operations
+- Real-time status indicators and telemetry
 
 **Technologies:** C++, ESP32, Arduino, Wi-Fi, UDP, HTTP, NVS, SPI, microSD, OLED
 
@@ -198,18 +201,6 @@ Windows WinForms diagnostic client for bidirectional UDP communication with ESP3
 - Integration with custom ESP32 command protocols
 
 **Technologies:** C#, .NET Framework, WinForms, UDP/IPv4, multithreading
-
-### [ESP32 Wi-Fi](https://github.com/paulocfmarques-collab/esp32_wifi)
-
-Embedded firmware platform for Wi-Fi commissioning, remote diagnostics, UDP control, and device recovery workflows.
-
-- Provisioning access point when credentials are unavailable
-- Persistent Wi-Fi configuration
-- Remote device control and health reporting
-- LED, reset, temperature, memory, flash, and uptime support
-- Local-network automation and monitoring use cases
-
-**Technologies:** C++, ESP32, Arduino, Wi-Fi, UDP, HTTP, NVS, OLED
 
 ### [TIniFile](https://github.com/paulocfmarques-collab/inifiles)
 
