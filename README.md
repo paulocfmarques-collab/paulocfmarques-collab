@@ -6,7 +6,7 @@ I am an Embedded Software Engineer, Team Leader at AEL Sistemas, and University 
 
 My professional experience includes software architecture, embedded C/C++ development, real-time systems, verification and validation, debugging, systems integration, technical leadership, and engineering process improvement.
 
-I am also interested in networked embedded systems, IoT, observability, automation, and engineering tools that improve system visibility and operational efficiency. I enjoy mentoring technology professionals and turning complex technical challenges into robust, practical solutions.
+I am also interested in networked embedded systems, IoT, observability, automation, and engineering tools that improve system visibility and operational efficiency. I enjoy mentoring technology professionals and designing robust solutions for real-world embedded challenges.
 
 > Leadership, technical rigor, continuous learning, and engineering excellence are the foundations for building high-performing teams and reliable systems.
 
@@ -74,6 +74,17 @@ I am also interested in networked embedded systems, IoT, observability, automati
 ---
 
 ## 🔭 Featured Projects
+
+### [M5NanoC6 Wi-Fi](https://github.com/paulocfmarques-collab/M5NanoC6_wifi)
+
+Embedded Wi-Fi solution for the M5NanoC6 board, focused on connectivity, diagnostics, and local command/control workflows.
+
+- Wi-Fi connection and provisioning flow
+- M5NanoC6 board-specific peripheral integration
+- Embedded command and status handling
+- IoT and local device control scenarios
+
+**Technologies:** C++, ESP32, Arduino, Wi-Fi, M5NanoC6, embedded diagnostics
 
 ### [ESP32 WiFi + Ethernet + SD Card + OLED Control Platform](https://github.com/paulocfmarques-collab/esp32_wifi_eth_sdcard_P4)
 
